@@ -1,0 +1,32 @@
+Participant Selection:
+
+Recruit 100 adults aged 25-50.
+Split the participants into two groups:
+Experimental group: Engages in 30 minutes of aerobic exercise (e.g., running or cycling) 5 times a week for 12 weeks.
+Control group: No regular exercise during the same period.
+Cognitive Function Tests:
+
+Measure participants' baseline cognitive abilities using a standardized battery of cognitive tests (focusing on memory recall, problem-solving, and executive control).
+Administer the same tests at intervals: before starting the regimen, at 6 weeks, and at the end of 12 weeks.
+Physiological Measurements:
+
+Track physical health improvements (heart rate, VO2 max) in the exercise group to ensure that aerobic capacity is improving alongside cognitive measures.
+
+
+Regular aerobic exercise enhances cognitive function, especially in tasks involving memory and executive control, in adults between the ages of 25 and 50.
+
+Cognitive Test Scores:
+
+Over the 12-week period, participants in the experimental group show an improvement in memory recall and executive function tasks compared to their baseline scores.
+The control group shows little to no improvement or a slight decline in cognitive function over time.
+Physiological Improvement:
+
+The experimental group shows increased aerobic capacity (measured through VO2 max) and lower resting heart rates, indicating enhanced physical fitness.
+Qualitative Feedback:
+
+Some participants in the experimental group report feeling more alert and focused in daily tasks, while control group participants report no significant changes.
+
+The experimental group exhibits a statistically significant improvement in cognitive function compared to the control group. The improvements are particularly noticeable in memory-related tasks and tasks requiring executive control (like planning and problem-solving).
+The correlation between improved physical fitness and cognitive enhancement supports the idea that aerobic exercise boosts brain function.
+
+The experiment supports the hypothesis that regular aerobic exercise improves cognitive function in adults aged 25-50. The increase in cognitive abilities, particularly in memory and executive control, can be attributed to the positive effects of physical activity on brain health. Hence, aerobic exercise should be considered a beneficial intervention for enhancing cognitive performance in adults.

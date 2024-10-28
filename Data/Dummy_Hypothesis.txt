@@ -1,0 +1,1 @@
+Implementing a new welding technique will reduce the occurrence of defects in welded joints by at least 20%.
