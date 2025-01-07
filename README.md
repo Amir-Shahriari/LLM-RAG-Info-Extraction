@@ -3,26 +3,6 @@
 
 This repository contains code and data for a project focused on information extraction using large language models (LLMs). The project includes a Jupyter notebook with the main implementation and a data folder with supporting resources.
 
-## Project Structure
-
-```
-LLM-Rag-Info-Extraction/
-├── AmirShahriari-LLM.ipynb    # Main Jupyter notebook with the implementation
-├── Data/                      # Folder containing data files
-│   ├── blood_cells.txt
-│   ├── device.txt
-│   ├── dummy.txt
-│   ├── Dummy_Hypothesis.txt
-│   ├── Gen2Concl.txt
-│   ├── Gen2Doc.txt
-│   ├── Gen2Eval.txt
-│   ├── Gen2Ex.txt
-│   ├── Gen2Hypo.txt
-│   ├── Gen2Obs.txt
-│   ├── GenDoc.txt
-│   ├── GenHypo.txt
-└── .git/                      # Git metadata
-```
 
 ## Requirements
 
@@ -57,4 +37,4 @@ The `Data` folder contains several `.txt` files used for testing and evaluating 
 
 Feel free to fork this repository and submit pull requests. Contributions are welcome!
 
-```
+
