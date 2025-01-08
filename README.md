@@ -1,4 +1,4 @@
-```markdown
+
 # LLM-Rag-Info-Extraction
 
 This repository contains code and data for a project focused on information extraction using large language models (LLMs). The project includes a Jupyter notebook with the main implementation and a data folder with supporting resources.
