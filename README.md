@@ -9,7 +9,6 @@ This repository contains code and data for a project focused on information extr
 To run the project, make sure you have the following installed:
 - Python 3.x
 - Jupyter Notebook
-- Necessary Python libraries (install using the `requirements.txt` if available, or based on the imports in the notebook)
 
 ## How to Use
 
